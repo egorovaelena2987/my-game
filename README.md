@@ -1,4 +1,4 @@
-### Hi there 👋, my name is <a href="[https://gravel-fast-sandpaper.glitch.m](https://gravel-fast-sandpaper.glitch.me/)" target="_blank">Elena</a>
+### Hi there 👋, my name is <a href="https://gravel-fast-sandpaper.glitch.me/" target="_blank">Elena</a>
 #### I am a beginner developer who is still in the process of learning
 ![I am a beginner developer who is still in the process of learning](https://img.freepik.com/free-vector/tiny-people-gamers-playing-online-video-game-huge-joystick-clock_335657-2448.jpg?w=1380)
 

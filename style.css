@@ -1,0 +1,43 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1611996575749-79a3a250f948?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2940&q=80");
+    background-color:  #185ADB;
+    background-size: cover;
+    background-repeat: no-repeat;
+    min-height: 100vh;
+    background-position: right bottom;
+}
+#container {
+    background-color: #D2E0FB;
+    border: 3px solid white;
+    width: 30%;
+    padding: 20px;
+    margin-top: 100px;
+}
+h3 {
+    font-size: 20px;
+    font-family: 'Young Serif', serif;
+}
+#guess {
+    padding: 10px;
+    font-family: 'Young Serif', serif;
+    width: 40%;
+    font-size: 15px;
+    border: none;
+}
+.btn {
+    background-color: #6499E9;
+    font-family: 'Young Serif', serif;
+    font-size: 15px;
+    color: white;
+    margin-top: 20px;
+    padding: 20px;
+    border: none;
+    border-radius: 20px;
+}
+@media all and (max-width: 500px) {
+    #guess {
+        width: 80px;
+        padding: 5px;
+        font-size: 10px;
+    }
+}
